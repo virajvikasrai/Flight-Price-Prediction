@@ -1,2 +1,2 @@
-# Flight-Price_Prediction
+# Flight-Price-Prediction
 Machine learning regression
